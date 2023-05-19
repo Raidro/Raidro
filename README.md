@@ -1,16 +1,20 @@
-### Olá a todos! Me chamo Mateus 👋
+# Olá, me chamo Mateus! sejam todos bem vindos ao meu github 👋
+## Sou formado em engenharia da computação, tenho pos-graduação em Dispositivos Moveis e estou atualmente na minha segunda pos que é em Cloud Computing!
 
-<!--
-**Raidro/Raidro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Tecnologias e Ferramentas
+   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" heigh="40" />
+          
+          
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 📚 Tenho estudado nestjs com prisma pra desenvolver melhor minhas habilidades de backend e cloud computing cujo é o assunto da minha pos graduação :D
+
+- 🎮 Gosto de jogar e sou apaixonado por animais, não é atoa que tenho 3!
+
+- ⚡ Curiosidade: Sou tecnico em eletronica e sou faixa preta em kung fu
+
+
+
