@@ -15,11 +15,11 @@
           
 
 ## Algumas coisas sobre mim
-- 📚 Tenho estudado nestjs com prisma pra desenvolver melhor minhas habilidades de backend e cloud computing cujo é o assunto da minha pos graduação :D
+- 📚 Tenho estudado nestjs com prisma e python com django pra desenvolver melhor minhas habilidades de backend e cloud computing cujo é o assunto da minha pos graduação :D
 
 - 🎮 Gosto de jogar e sou apaixonado por animais, não é atoa que tenho 3!
 
-- ⚡ Curiosidade: Sou tecnico em eletronica e sou faixa preta em kung fu
+- ⚡ Curiosidade: Sou tecnico em eletronica e sou faixa preta em kung fu (sou instrutor)
 
 ## Contatos:
 
