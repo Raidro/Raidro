@@ -8,7 +8,7 @@
          
 ## Estou aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" heigh="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" heigh="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" heigh="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" heigh="40" />
 
 ## Algumas coisas sobre mim
 - 📚 Tenho estudado nestjs com prisma pra desenvolver melhor minhas habilidades de backend e cloud computing cujo é o assunto da minha pos graduação :D
