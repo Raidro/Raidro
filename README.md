@@ -1,27 +1,27 @@
-# Olá, me chamo Mateus! sejam todos bem vindos ao meu github 👋
-## Sou formado em engenharia da computação, tenho pos-graduação em Dispositivos Moveis e estou atualmente na minha segunda pos que é em Cloud Computing!
+# Hello, my name is Mateus! Welcome everyone to my GitHub profile. 👋
+## I have a degree in computer engineering, a postgraduate degree in Mobile Devices, and I'm currently pursuing my second postgraduate degree in Cloud Computing!
 
 
-## Tecnologias e Ferramentas
+## Technologies and Tools
    
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" heigh="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" heigh="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" heigh="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" heigh="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" heigh="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" heigh="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="40" heigh="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" heigh="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" heigh="40" />
           
           
           
          
-## Estou aprendendo
+## I am learning
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" heigh="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" heigh="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" heigh="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="40" heigh="40" />
           
 
-## Algumas coisas sobre mim
-- 📚 Tenho estudado nestjs com prisma e python com django pra desenvolver melhor minhas habilidades de backend e cloud computing cujo é o assunto da minha pos graduação :D
+## Some things about me:
+- 📚 I've been studying NestJS with Prisma and Python with Django to improve my backend skills and cloud computing, which is the subject of my postgraduate studies :D
 
-- 🎮 Gosto de jogar e sou apaixonado por animais, não é atoa que tenho 3!
+- 🎮  I enjoy playing games and I'm passionate about animals, hence why I have 3!
 
-- ⚡ Curiosidade: Sou tecnico em eletronica e sou faixa preta em kung fu (sou instrutor)
+- ⚡ Fun fact: I'm an electronics technician and a black belt in kung fu (I'm an instructor)
 
-## Contatos:
+## Contacts:
 
 <div>
 <a href = "mateus.satiro2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
